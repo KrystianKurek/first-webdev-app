@@ -1,0 +1,17 @@
+{
+    "uuid_1": {
+        "who": "JA",
+        "where": "Wachock",
+        "trucks": 21,
+        "locomotive": "gama",
+        "date": "2019-01-01"
+    },
+    "uuid_2": {
+        "who": "TY",
+        "where": "Tunel",
+        "trucks": 2,
+        "locomotive": "Marathon",
+        "date": "2019-01-02"
+    }
+	
+}
